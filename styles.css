@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.blog {
+    display: flex;
+    overflow-x: auto;
+}
+
+.card {
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid;
+}
+
+.delete {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
